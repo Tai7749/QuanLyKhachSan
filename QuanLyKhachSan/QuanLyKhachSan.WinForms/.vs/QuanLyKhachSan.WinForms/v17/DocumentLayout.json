@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\QuanLyKhachSan.WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B494FE4E-48D5-45B0-89F4-D2FC361417B2}|QuanLyKhachSan.WinForms.csproj|d:\\git\\quanlykhachsan.winforms\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B494FE4E-48D5-45B0-89F4-D2FC361417B2}|QuanLyKhachSan.WinForms.csproj|solutionrelative:formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B494FE4E-48D5-45B0-89F4-D2FC361417B2}|QuanLyKhachSan.WinForms.csproj|d:\\git\\quanlykhachsan.winforms\\formdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B494FE4E-48D5-45B0-89F4-D2FC361417B2}|QuanLyKhachSan.WinForms.csproj|solutionrelative:formdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B494FE4E-48D5-45B0-89F4-D2FC361417B2}|QuanLyKhachSan.WinForms.csproj|d:\\git\\quanlykhachsan.winforms\\dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B494FE4E-48D5-45B0-89F4-D2FC361417B2}|QuanLyKhachSan.WinForms.csproj|solutionrelative:dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B494FE4E-48D5-45B0-89F4-D2FC361417B2}|QuanLyKhachSan.WinForms.csproj|d:\\git\\quanlykhachsan.winforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B494FE4E-48D5-45B0-89F4-D2FC361417B2}|QuanLyKhachSan.WinForms.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B494FE4E-48D5-45B0-89F4-D2FC361417B2}|QuanLyKhachSan.WinForms.csproj|d:\\git\\quanlykhachsan.winforms\\forms\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B494FE4E-48D5-45B0-89F4-D2FC361417B2}|QuanLyKhachSan.WinForms.csproj|solutionrelative:forms\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B494FE4E-48D5-45B0-89F4-D2FC361417B2}|QuanLyKhachSan.WinForms.csproj|d:\\git\\quanlykhachsan.winforms\\forms\\frmphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B494FE4E-48D5-45B0-89F4-D2FC361417B2}|QuanLyKhachSan.WinForms.csproj|solutionrelative:forms\\frmphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B494FE4E-48D5-45B0-89F4-D2FC361417B2}|QuanLyKhachSan.WinForms.csproj|d:\\git\\quanlykhachsan.winforms\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B494FE4E-48D5-45B0-89F4-D2FC361417B2}|QuanLyKhachSan.WinForms.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 253,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormdangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\git\\QuanLyKhachSan.WinForms\\FormdangNhap.cs",
+              "RelativeDocumentMoniker": "FormdangNhap.cs",
+              "ToolTip": "D:\\git\\QuanLyKhachSan.WinForms\\FormdangNhap.cs [Design]",
+              "RelativeToolTip": "FormdangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:42:04.47Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormdangNhap.Designer.cs",
+              "DocumentMoniker": "D:\\git\\QuanLyKhachSan.WinForms\\FormdangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "FormdangNhap.Designer.cs",
+              "ToolTip": "D:\\git\\QuanLyKhachSan.WinForms\\FormdangNhap.Designer.cs",
+              "RelativeToolTip": "FormdangNhap.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:53:05.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "D:\\git\\QuanLyKhachSan.WinForms\\DAL\\DbHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\DbHelper.cs",
+              "ToolTip": "D:\\git\\QuanLyKhachSan.WinForms\\DAL\\DbHelper.cs",
+              "RelativeToolTip": "DAL\\DbHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:45:43.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\git\\QuanLyKhachSan.WinForms\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\git\\QuanLyKhachSan.WinForms\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-03T08:47:54.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmKhachHang.cs",
+              "DocumentMoniker": "D:\\git\\QuanLyKhachSan.WinForms\\Forms\\FrmKhachHang.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmKhachHang.cs",
+              "ToolTip": "D:\\git\\QuanLyKhachSan.WinForms\\Forms\\FrmKhachHang.cs",
+              "RelativeToolTip": "Forms\\FrmKhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:47:18.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmPhong.cs",
+              "DocumentMoniker": "D:\\git\\QuanLyKhachSan.WinForms\\Forms\\FrmPhong.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPhong.cs",
+              "ToolTip": "D:\\git\\QuanLyKhachSan.WinForms\\Forms\\FrmPhong.cs",
+              "RelativeToolTip": "Forms\\FrmPhong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:46:53.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "D:\\git\\QuanLyKhachSan.WinForms\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.cs",
+              "ToolTip": "D:\\git\\QuanLyKhachSan.WinForms\\Forms\\FrmLogin.cs",
+              "RelativeToolTip": "Forms\\FrmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:46:11.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
