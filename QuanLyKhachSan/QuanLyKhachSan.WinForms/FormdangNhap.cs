@@ -16,5 +16,15 @@ namespace QuanLyKhachSan.WinForms
         {
             InitializeComponent();
         }
+
+        private void FormdangNhap_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

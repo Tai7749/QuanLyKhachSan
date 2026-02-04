@@ -1,0 +1,22 @@
+# ===== Visual Studio =====
+.vs/
+bin/
+obj/
+
+# ===== User & cache =====
+*.user
+*.suo
+*.cache
+*.log
+
+# ===== VS database =====
+*.vsidx
+*.wal
+*.shm
+
+# ===== Office temp files =====
+~$*.docx
+
+# ===== OS =====
+Thumbs.db
+.DS_Store
