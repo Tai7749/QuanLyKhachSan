@@ -1,0 +1,9 @@
+D:\Dev\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan.WinForms\bin\Debug\QuanLyKhachSan.WinForms.exe
+D:\Dev\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan.WinForms\bin\Debug\QuanLyKhachSan.WinForms.pdb
+D:\Dev\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan.WinForms\obj\Debug\QuanLyKhachSan.WinForms.csproj.AssemblyReference.cache
+D:\Dev\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan.WinForms\obj\Debug\QuanLyKhachSan.WinForms.Properties.Resources.resources
+D:\Dev\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan.WinForms\obj\Debug\QuanLyKhachSan.WinForms.csproj.GenerateResource.cache
+D:\Dev\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan.WinForms\obj\Debug\QuanLyKhachSan.WinForms.csproj.CoreCompileInputs.cache
+D:\Dev\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan.WinForms\obj\Debug\QuanLyKhachSan.WinForms.exe
+D:\Dev\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan.WinForms\obj\Debug\QuanLyKhachSan.WinForms.pdb
+D:\Dev\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan.WinForms\obj\Debug\QuanLyKhachSan.WinForms.FmLogin.resources
