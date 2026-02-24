@@ -16,7 +16,7 @@ namespace QuanLyKhachSan.WinForms
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormdangNhap());
+            Application.Run(new FmLogin());
         }
     }
 }

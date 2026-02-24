@@ -48,17 +48,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAL\DbHelper.cs" />
-    <Compile Include="FormdangNhap.cs">
+    <Compile Include="Forms\FmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormdangNhap.Designer.cs">
-      <DependentUpon>FormdangNhap.cs</DependentUpon>
+    <Compile Include="Forms\FmLogin.Designer.cs">
+      <DependentUpon>FmLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\FrmKhachHang.cs" />
-    <Compile Include="Forms\FrmLogin.cs" />
-    <Compile Include="Forms\FrmPhong.cs" />
+    <Compile Include="Forms\FmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FmHome.Designer.cs">
+      <DependentUpon>FmHome.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\FmLogin.resx">
+      <DependentUpon>FmLogin.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -77,9 +83,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />

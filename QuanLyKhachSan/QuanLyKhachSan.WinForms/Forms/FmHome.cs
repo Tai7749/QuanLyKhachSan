@@ -8,23 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace QuanLyKhachSan.WinForms
+namespace QuanLyKhachSan.WinForms.Forms
 {
-    public partial class FormdangNhap : Form
+    public partial class FmHome : Form
     {
-        public FormdangNhap()
+        public FmHome()
         {
             InitializeComponent();
-        }
-
-        private void FormdangNhap_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
