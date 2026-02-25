@@ -1,6 +1,6 @@
 ﻿namespace QuanLyKhachSan.WinForms.Forms
 {
-    partial class fmBoPhan
+    partial class fmMain
     {
         /// <summary>
         /// Required designer variable.
@@ -28,33 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.SuspendLayout();
-            // 
-            // textBox1
-            // 
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 22F);
-            this.textBox1.Location = new System.Drawing.Point(152, 154);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(355, 41);
-            this.textBox1.TabIndex = 0;
-            this.textBox1.Text = "Đây là Bộ Phận";
-            // 
-            // FmBoPhan
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.textBox1);
-            this.Name = "FmBoPhan";
-            this.Text = "FmBoPhan";
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            this.Text = "FmHome";
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox textBox1;
     }
 }
