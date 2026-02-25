@@ -48,31 +48,34 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAL\DbHelper.cs" />
-    <Compile Include="Forms\fmBoPhan.cs">
+    <Compile Include="Forms\frmBoPhan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\fmBoPhan.Designer.cs">
-      <DependentUpon>fmBoPhan.cs</DependentUpon>
+    <Compile Include="Forms\frmBoPhan.Designer.cs">
+      <DependentUpon>frmBoPhan.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\fmDangNhap.cs">
+    <Compile Include="Forms\frmDangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\fmDangNhap.Designer.cs">
-      <DependentUpon>fmDangNhap.cs</DependentUpon>
+    <Compile Include="Forms\frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\fmMain.cs">
+    <Compile Include="Forms\frmMain.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\fmMain.Designer.cs">
-      <DependentUpon>fmMain.cs</DependentUpon>
+    <Compile Include="Forms\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Forms\fmBoPhan.resx">
-      <DependentUpon>fmBoPhan.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\frmBoPhan.resx">
+      <DependentUpon>frmBoPhan.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\fmDangNhap.resx">
-      <DependentUpon>fmDangNhap.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

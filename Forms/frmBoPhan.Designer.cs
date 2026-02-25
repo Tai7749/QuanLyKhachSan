@@ -1,6 +1,6 @@
 ﻿namespace QuanLyKhachSan.WinForms.Forms
 {
-    partial class fmBoPhan
+    partial class frmBoPhan
     {
         /// <summary>
         /// Required designer variable.
@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.btnQuayLai = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textBox1
@@ -40,14 +41,27 @@
             this.textBox1.TabIndex = 0;
             this.textBox1.Text = "Đây là Bộ Phận";
             // 
-            // FmBoPhan
+            // btnQuayLai
+            // 
+            this.btnQuayLai.Location = new System.Drawing.Point(53, 36);
+            this.btnQuayLai.Name = "btnQuayLai";
+            this.btnQuayLai.Size = new System.Drawing.Size(110, 67);
+            this.btnQuayLai.TabIndex = 1;
+            this.btnQuayLai.Text = "Quay lại";
+            this.btnQuayLai.UseVisualStyleBackColor = true;
+            this.btnQuayLai.Click += new System.EventHandler(this.btnQuayLai_Click);
+            // 
+            // frmBoPhan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnQuayLai);
             this.Controls.Add(this.textBox1);
-            this.Name = "FmBoPhan";
+            this.Name = "frmBoPhan";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "FmBoPhan";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.fmBoPhan_FormClosed);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -56,5 +70,6 @@
         #endregion
 
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Button btnQuayLai;
     }
 }

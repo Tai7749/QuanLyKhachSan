@@ -10,11 +10,18 @@ using System.Windows.Forms;
 
 namespace QuanLyKhachSan.WinForms.Forms
 {
-    public partial class fmBoPhan : Form
+    public partial class frmMain : Form
     {
-        public fmBoPhan()
+        public frmMain()
         {
             InitializeComponent();
+        }
+
+        private void btnBoPhan_Click(object sender, EventArgs e)
+        {
+            frmBoPhan frm = new frmBoPhan(this);
+            this.Hide();
+            frm.Show();
         }
     }
 }

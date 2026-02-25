@@ -1,6 +1,6 @@
 ﻿namespace QuanLyKhachSan.WinForms
 {
-    partial class fmDangNhap
+    partial class frmDangNhap
     {
         /// <summary>
         /// Required designer variable.
