@@ -1,0 +1,101 @@
+﻿# ===============================
+# Visual Studio / WinForms
+# ===============================
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache / temp
+.vs/
+.vscode/
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+AnyCPU/
+
+# MSBuild
+*.log
+*.tlog
+*.lastbuildstate
+
+# ===============================
+# .NET / C#
+# ===============================
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# ===============================
+# Test / Coverage
+# ===============================
+TestResults/
+coverage/
+coverage.xml
+coverage.json
+
+# ===============================
+# OS generated files
+# ===============================
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ===============================
+# Backup / Temp files
+# ===============================
+*.bak
+*.tmp
+*.temp
+*.old
+*.orig
+*.swp
+*.swo
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# Publish / Deploy
+# ===============================
+publish/
+app.publish/
+
+# ===============================
+# SQL Server / LocalDB
+# ===============================
+*.mdf
+*.ldf
+
+# ===============================
+# WinForms specific
+# ===============================
+*.Designer.cs.bak
