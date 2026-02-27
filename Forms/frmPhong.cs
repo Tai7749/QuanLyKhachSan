@@ -10,25 +10,21 @@ using System.Windows.Forms;
 
 namespace QuanLyKhachSan.WinForms.Forms
 {
-    public partial class frmBoPhan : Form
+    public partial class frmPhong : Form
     {
-        private Form _main;
-
-        public frmBoPhan(Form main)
+        public frmPhong()
         {
             InitializeComponent();
-            _main = main;
         }
-        private void btnQuayLai_Click(object sender, EventArgs e)
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
-            this.Close();
+
         }
 
-        private void fmBoPhan_FormClosed(object sender, FormClosedEventArgs e)
+        private void bigLabel1_Click(object sender, EventArgs e)
         {
-            _main.Show();
+
         }
-
-
     }
 }

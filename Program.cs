@@ -1,9 +1,10 @@
-﻿using QuanLyKhachSan.WinForms.Forms;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using QuanLyKhachSan.WinForms.Forms;
 
 namespace QuanLyKhachSan.WinForms
 {
@@ -17,7 +18,7 @@ namespace QuanLyKhachSan.WinForms
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMain());
+            Application.Run(new frmDangNhap());
         }
     }
 }

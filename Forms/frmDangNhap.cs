@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace QuanLyKhachSan.WinForms
+namespace QuanLyKhachSan.WinForms.Forms
 {
     public partial class frmDangNhap : Form
     {
@@ -17,17 +17,7 @@ namespace QuanLyKhachSan.WinForms
             InitializeComponent();
         }
 
-        private void FormdangNhap_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lbl_quenmatkhau_Click(object sender, EventArgs e)
+        private void btnDangNhap_Click(object sender, EventArgs e)
         {
 
         }
