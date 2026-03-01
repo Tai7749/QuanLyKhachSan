@@ -10,21 +10,12 @@ using System.Windows.Forms;
 
 namespace QuanLyKhachSan.WinForms.Forms
 {
-    public partial class frmPhong : Form
+    public partial class frmDoiMatKhau : Form
     {
-        public frmPhong()
+        public frmDoiMatKhau()
         {
             InitializeComponent();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void bigLabel1_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
